@@ -1,0 +1,286 @@
+[33mcommit 56be4104d2577c96f6b6934aa4462d67a4b4b789[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Nicolas Pereira <pereira.nicolasrocha@gmail.com>
+Date:   Thu Nov 9 13:11:48 2023 -0300
+
+    fix: fixing url service mock (#40)
+
+[33mcommit 969de75461ecab71fc12ece590ce7bcd8a65ae2d[m
+Author: Luca Poe <80789505+iamthepoe@users.noreply.github.com>
+Date:   Thu Nov 9 10:49:39 2023 -0300
+
+    fix: atualizar link do mock (#38)
+    
+    O antigo link de mock está fora do ar:
+    https://run.mocky.io/v3/8fafdd68-a090-496f-8c9a-3442cf30dae6
+    
+    Então acabei por criar um link novo, que contém o mesmo corpo de resposta e código HTTP.
+
+[33mcommit d273c8eed93c9903f7933b22c579bf3b66ff5eb0[m
+Merge: e1eb5dc f06dd60
+Author: Daniel Lemes <daniel.lemes@picpay.com>
+Date:   Fri Feb 11 09:42:38 2022 -0300
+
+    Merge pull request #35 from PicPay/change-description
+    
+    Update readme.md
+
+[33mcommit f06dd60b2d403525c18d032b706153fa75487ec3[m
+Author: Diego Borges <diego.borges@picpay.com>
+Date:   Wed Dec 1 10:22:47 2021 -0300
+
+    Update readme.md
+    
+    Co-authored-by: LUCAS GUEDES BEZERRA GOLLNER <lucasgollner@gmail.com>
+
+[33mcommit e792cd83fdcc59feabdb6a63f34bbad42af2c64a[m
+Author: Diego Borges <diego.borges@picpay.com>
+Date:   Wed Dec 1 10:10:25 2021 -0300
+
+    Update readme.md
+
+[33mcommit e1eb5dcbc06c60231b179e4f26312b32e9a30537[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Mon May 31 09:24:36 2021 -0300
+
+    Update readme.md
+
+[33mcommit 72ffc4eb5760f92e53b429b3a61cd3d9e82f71dd[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Mon May 31 09:23:13 2021 -0300
+
+    Update readme.md
+
+[33mcommit e3f481cc5cc8eeebac8d7a18cb76b41435f7cf02[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri May 21 17:37:21 2021 -0300
+
+    Update readme.md
+
+[33mcommit 3b7ddb2eb576d42649ec3738c31a3c9ba3a8f567[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri May 21 17:34:05 2021 -0300
+
+    Update readme.md
+
+[33mcommit 665fc10c9d28e4b277873ff863e96aa79a7cbcce[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Mon May 3 17:39:35 2021 -0300
+
+    Update readme.md
+
+[33mcommit 6aeb2d4d5e17eed60c2250a4aef53540e6808ec7[m
+Merge: 54e0cde 34f40b8
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Thu Apr 29 12:22:11 2021 -0400
+
+    Merge pull request #29 from PicPay/josemiguelq-patch-2
+    
+    Update readme.md
+
+[33mcommit 34f40b82d7ed476dfa49369dbd86a46e7ef0bfbc[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Wed Apr 28 12:32:06 2021 -0300
+
+    Update readme.md
+
+[33mcommit 54e0cde359dd3ac1dbe86154311e6ae12f827831[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Thu Apr 8 11:14:32 2021 -0300
+
+    Update readme.md
+
+[33mcommit c2645503900c4cff8ed1092013ae0f56e0357c2b[m
+Merge: 4bc7900 1bf2bbe
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Thu Apr 8 10:08:00 2021 -0400
+
+    Merge pull request #28 from PicPay/josemiguelq-patch-1
+    
+    Update readme.md
+
+[33mcommit 1bf2bbe51b9400abc3d1dd81e852a1600484debe[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Wed Apr 7 19:17:51 2021 -0300
+
+    Update readme.md
+
+[33mcommit 4bc7900cc27c067e43dae3cd528492c69617efb0[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Wed Apr 7 16:45:00 2021 -0300
+
+    Update readme.md
+
+[33mcommit b70d40647d950e7e1502048e2c869ea8ec0ea1bf[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Wed Mar 17 20:04:20 2021 -0300
+
+    Update readme.md
+
+[33mcommit 56c7729f59a67a72d2cd3025e1016c1187c09bba[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Tue Mar 16 19:24:22 2021 -0300
+
+    Update readme.md
+
+[33mcommit df1135bec674a6961f8b876c37ba405ea5e5b1f1[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri Mar 12 14:33:36 2021 -0300
+
+    Update readme.md
+
+[33mcommit 8420109fb8565920c15fc5c76ebc26cc73134b2c[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Wed Feb 17 16:08:08 2021 -0300
+
+    Update readme.md
+
+[33mcommit 769b0d79b3316f56b2979cfdfe677772954920ad[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Wed Feb 17 16:06:39 2021 -0300
+
+    Update readme.md
+
+[33mcommit c863148562af312cd1cbe76cf363f60302d0d31e[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Tue Feb 2 08:45:53 2021 -0300
+
+    Update readme.md
+
+[33mcommit 3205d7d976948529cbac0c937dcd3fcc4373670c[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Tue Feb 2 08:41:29 2021 -0300
+
+    Update readme.md
+
+[33mcommit 5be4dff84d19fb6f4d502e72b699d0466127e663[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Tue Feb 2 08:39:33 2021 -0300
+
+    Delete .gitattributes
+
+[33mcommit 2f38c46256d068330c03614ec91b486c62338a62[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Tue Feb 2 08:39:22 2021 -0300
+
+    Delete .styleci.yml
+
+[33mcommit 011bb609fc7ace99504e2125e536ab36dbd04def[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Thu Jan 28 10:20:54 2021 -0300
+
+    Update readme.md
+
+[33mcommit 10973b23aa96372c62a9cd4116c6a873240f0280[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Thu Jan 28 10:15:54 2021 -0300
+
+    Update readme.md
+
+[33mcommit 60f4dfb22049a86df98223ce68b4933b2ae9ba70[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Thu Jan 28 10:15:32 2021 -0300
+
+    Update readme.md
+
+[33mcommit 18274b58e59efe2345f4a1cabebccaa4ec34f9e1[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri Aug 14 15:35:59 2020 -0300
+
+    Update readme.md
+
+[33mcommit 5b4bca2224925e226005202df079d8d9b054a8a8[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri Aug 14 15:35:19 2020 -0300
+
+    Update readme.md
+
+[33mcommit 419c27dbfe4806f3428e0cdd5940d241b9534090[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri Aug 14 15:34:35 2020 -0300
+
+    Update readme.md
+
+[33mcommit 4e6d7f4f3a2da4a31d52ee1774a4d63fbb1bc9aa[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri Aug 14 15:31:09 2020 -0300
+
+    Update readme.md
+
+[33mcommit 17d28b5baf8e168fa0eda0b84ecf9be8331beb8a[m
+Merge: e6eba07 b36584e
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri Aug 14 15:30:42 2020 -0300
+
+    Merge pull request #27 from PicPay/patch/purpose-01
+    
+    Added new perspectives
+
+[33mcommit b36584ee0964b8ea07ce68b445da3d41d26f9e25[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri Aug 14 14:07:49 2020 -0300
+
+    Update readme.md
+
+[33mcommit 45399a4e5886b70b8322ab400f37d295c3ce92eb[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri Aug 14 14:07:13 2020 -0300
+
+    Update readme.md
+    
+    Co-authored-by: Luciano Carvalho <luciano_722@hotmail.com>
+
+[33mcommit e6eba07ab18c504a16538cdc7b0b205ef6b08723[m
+Author: Jose Miguel <jose.quisbert@picpay.com>
+Date:   Fri Aug 14 10:49:05 2020 -0300
+
+    Update readme.md
+
+[33mcommit 0fd795248d7068e21875382e32529b161701f387[m
+Author: Vinicius Vicente <vinyvicente@gmail.com>
+Date:   Mon Aug 10 10:10:20 2020 -0300
+
+    Fix TYPO
+
+[33mcommit 62d52c1bfe2e2be272da87adc83867d91533bd0c[m
+Author: Vinicius Vicente <vinyvicente@gmail.com>
+Date:   Mon Aug 10 09:49:47 2020 -0300
+
+    Fix TYPO
+
+[33mcommit e385442cb965603202021ca660105900cc46233d[m
+Author: Vinicius <vinyvicente@users.noreply.github.com>
+Date:   Mon Aug 10 09:48:12 2020 -0300
+
+    Update readme.md
+    
+    Co-authored-by: Luciano Carvalho <luciano_722@hotmail.com>
+
+[33mcommit 6d3b18798fdf8e5e4edd07304bdd29c270d233c8[m
+Author: Vinicius <vinyvicente@users.noreply.github.com>
+Date:   Mon Aug 10 09:48:04 2020 -0300
+
+    Update readme.md
+    
+    Co-authored-by: Jose Miguel <jose.quisbert@picpay.com>
+
+[33mcommit 1fbdcb58d65c20a9409452efabec6016c70f7f4d[m
+Author: Vinicius <vinyvicente@users.noreply.github.com>
+Date:   Mon Aug 10 09:47:57 2020 -0300
+
+    Update readme.md
+    
+    Co-authored-by: Luciano Carvalho <luciano_722@hotmail.com>
+
+[33mcommit d5f09365de9e7dac9e10de3ed7cdec2c522e60ed[m
+Author: Vinicius <vinyvicente@users.noreply.github.com>
+Date:   Mon Aug 10 09:47:48 2020 -0300
+
+    Update readme.md
+    
+    Co-authored-by: Jose Miguel <jose.quisbert@picpay.com>
+
+[33mcommit ef364affa4c38223ac3186227bc380ed30a0abe4[m
+Author: Vinicius <vinyvicente@users.noreply.github.com>
+Date:   Mon Aug 10 09:34:16 2020 -0300
+
+    Update r
